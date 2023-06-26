@@ -20,6 +20,8 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning more about the MERN stack
 - 👯 I’m looking to collaborate on any MERN stack related project
+- 👥 I was lead developer for the obstacle avoidance robotic car in my set
+- 👥 I was part of the Solar Metering System with IoT feature in my set.
 - 👨‍💻 All of my projects are available at https://github.com/robotron2
 - 💬 Ask me about Full (MERN) Stack Development, Robotics, Arduino programming.
 - 📫 How to reach me https://github.com/robotron2
