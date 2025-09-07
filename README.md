@@ -1,29 +1,40 @@
-# Hi there👋, I'm Theophilus
-A passionate Software Engineer, Mechatronics Engineer from Nigeria
+# Hi there 👋, I'm Theophilus
 
+🎓 **Mechatronics Engineer** | 💻 **Software Engineer** | 🔗 **Blockchain Developer in Training**  
+From **Nigeria**, passionate about building **smart systems, scalable web applications, and innovative blockchain solutions**.
 
-<!--
-**Robotron2/robotron2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🚀 About Me
+- 🌱 Currently learning **Solidity & Smart Contract Development** at [Cyfrin Updraft](https://updraft.cyfrin.io/)  
+- 💻 Skilled in **MERN Stack Development, IoT Systems, Embedded Programming (Arduino, ESP)**  
+- 🤝 Open to collaborating on **fullstack projects, IoT applications, or blockchain development**  
+- 👥 Led class projects like an **Obstacle Avoidance Robotic Car** and a **Solar Energy Metering System with IoT**  
+- ⚡ Fun fact: I love blending **hardware + software** to build real-world solutions  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning more about the MERN stack
-- 👯 I’m looking to collaborate on any MERN stack related project
-👨‍💻 All of my projects are available at https://github.com/Maximus-2067
-- 💬 Ask me about Full Stack Development, Cloud Computing, Web Securities, MERN Stack Development
-📫 How to reach me https://maximus-2067.github.io/maximus/
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
 
+### 🛠️ Tech Stack
+**Languages & Frameworks:**  
+`C++` `Python` `JavaScript` `Solidity`  
+`React.js` `Node.js` `Express.js` `MongoDB` `TailwindCSS`  
 
-- 🌱 I’m currently learning more about the MERN stack
-- 👯 I’m looking to collaborate on any MERN stack related project
-- 👥 I was the team lead for the obstacle avoidance robotic car in my class
-- 👥 I was the team lead for the Solar Energy Metering System with IoT feature in my class.
-- 👨‍💻 All of my projects are available at https://github.com/robotron2
-- 💬 Ask me about Full (MERN) Stack Development, Robotics, Arduino programming, IoT.
-- 📫 How to reach me https://github.com/robotron2
+**Tools & Platforms:**  
+`Git & GitHub` `Arduino` `ESP8266/ESP32` `Foundry`  
 
+---
 
+### 🔥 Featured Projects
+- 🎵 **[Zingitalmedia](https://github.com/robotron2)** – A fullstack platform for music updates and blogs  
+- ♻️ **AI-Powered Waste Sorting System** – Arduino, ML/AI for automated waste classification  
+- ⚡ **Automatic Transfer Switch + IoT Energy Monitor** – Smart power switching with web dashboards  
+
+---
+
+### 📫 Connect with Me
+- 🔗 [LinkedIn](https://www.linkedin.com/in/robotron2)  
+- 💻 [GitHub](https://github.com/robotron2)  
+- ✉️ theophilusadesola@example.com  
+
+---
+✨ *"Engineering meets innovation — I build solutions that bridge hardware, software, and the future."*  
