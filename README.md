@@ -7,10 +7,16 @@ From **Nigeria**, passionate about building **smart systems, scalable web applic
 
 ### 🚀 About Me
 - 🌱 Currently learning **Solidity & Smart Contract Development** at [Cyfrin Updraft](https://updraft.cyfrin.io/)  
-- 💻 Skilled in **MERN Stack Development, IoT Systems, Embedded Programming (Arduino, ESP)**  
-- 🤝 Open to collaborating on **fullstack projects, IoT applications, or blockchain development**  
-- 👥 Led class projects like an **Obstacle Avoidance Robotic Car** and a **Solar Energy Metering System with IoT**  
-- ⚡ Fun fact: I love blending **hardware + software** to build real-world solutions  
+- 💻 Skilled in **MERN Stack Development**, **IoT Systems**, and **Embedded Programming (Arduino, ESP)**  
+- 🤝 Open to collaborating on **full-stack projects**, **IoT applications**, and **blockchain development**  
+- 🧠 Passionate about building innovative solutions that bridge the gap between **hardware and software**  
+
+#### 🛠️ Selected Class Projects
+- 🧭 **Obstacle Avoidance Robotic Car** – Designed and programmed an autonomous vehicle capable of detecting and avoiding obstacles.  
+- ☀️ **Solar Energy Metering System with IoT** – Developed a smart energy monitoring system that tracks solar power usage in real time.  
+- 🔌 **Automatic Transfer Switch (ATS)** with Energy Metering – Implemented an ATS with integrated control and monitoring features.  
+- ♻️ **Waste Sorting Machine (ML-Powered)** – Built a machine learning model to classify and sort waste automatically.  
+
 
 ---
 
