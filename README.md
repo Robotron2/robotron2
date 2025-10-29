@@ -40,7 +40,7 @@ From **Nigeria**, passionate about building **smart systems, scalable web applic
 ### 📫 Connect with Me
 - 🔗 [LinkedIn](https://www.linkedin.com/in/robotron2)  
 - 💻 [GitHub](https://github.com/robotron2)  
-- ✉️ theophilusadesola@example.com  
+- ✉️ theophilusadesola002@gmail.com 
 
 ---
 ✨ *"Engineering meets innovation — I build solutions that bridge hardware, software, and the future."*  
